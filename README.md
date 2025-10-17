@@ -1,4 +1,5 @@
-This project is a movie recommender system that suggests movies based on similarity. It utilizes a dataset of movie information and credits to provide personalized recommendations.Features
+This project is a movie recommender system that suggests movies based on similarity. It utilizes a dataset of movie information and credits to provide personalized recommendations.
+Features
 Movie Recommendation: Get recommendations for movies similar to a selected one.
 Poster Display: View movie posters for recommended films.
 Installation
@@ -42,3 +43,4 @@ Data Sources
 
 The project uses the following datasets:
 TMDB 5000 Movie Dataset
+
